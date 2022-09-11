@@ -1,0 +1,39 @@
+/* main  */
+main .main__container--section{
+    height: 730px;
+    width: 70%;
+}
+.dates_container {
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.main__container--table {
+    width: 45%;
+}
+
+.commision__container {
+    margin-top: 0;
+    width: 45%;
+}
+
+/* cards info */
+
+.container__products--cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    margin: 0 auto;
+}
+
+.container__products--cards  .products__card{
+    width: 40%;
+    margin-bottom: 0;
+}
+
+/* slider plans */
+.plans__container--card{
+    width: 20%;
+}

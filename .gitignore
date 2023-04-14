@@ -190,7 +190,6 @@ dist
 .svelte-kit
 
 ### VisualStudioCode ###
-/assets
 .vscode
 .vscode/*
 !.vscode/settings.json
